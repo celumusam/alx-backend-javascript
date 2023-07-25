@@ -86,4 +86,5 @@ This project contains tasks for learning to use Promises in ECMAScript 2015 (ES6
 
 # Author Jerome Udoh
 # Email: jubass640@gmail.com
-# GitHub:https://github.com/Jubasstech/alx-backend-javascript/tree/main/0x01-ES6_promise    ```
+# https://github.com/Jubasstech/alx-backend-javascript/blob/main/0x01-ES6_promise/.eslintrc.js
+`
