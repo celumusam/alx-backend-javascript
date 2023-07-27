@@ -143,4 +143,4 @@ This project contains tasks for learning to use classes in ECMAScript 2015 (ES6)
     + For privacy reasons, when `cloneCar` is called on an `EVCar` object, the object returned should be an instance of `Car` instead of `EVCar`.
 
 # Author Jerome Udoh
-
+https://github.com/Jubasstech/alx-backend-javascript/tree/main/0x02-ES6_classes
