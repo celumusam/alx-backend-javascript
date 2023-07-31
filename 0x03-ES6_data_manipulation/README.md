@@ -82,4 +82,6 @@ This project contains tasks for learning to manipulate data in ECMAScript 2015 (
     }
     ```
   + Track within the `weakMap` the number of times `queryAPI` is called for each endpoint.
-  + When the number of queries is >= 5 throw an error with the message `Endpoint load is high`.
+  + When the number of queries is >= 5 throw an error with the message `Endpoint load is high`
+# Author
+# Jerome Udoh.
