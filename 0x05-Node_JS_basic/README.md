@@ -100,4 +100,8 @@ This project contains tasks for learning to the basics of NodeJS.
     {
         "presets": [["env", {"exclude": ["transform-regenerator"]}]]
     }
+
     ```
+# Author Jerome Udoh
+https://github.com/Jubasstech/alx-backend-javascript.git
+
