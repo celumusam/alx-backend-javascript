@@ -390,3 +390,15 @@ This project contains tasks for learning to create unittests in NodeJS.
     + You should be able to run the test suite using `yarn test 10-api/api.test.js`.
     + Every test should pass without any warning.
     + Your server should not display any error.
+# Author Jerome Udoh
+WhatsApp
+LinkedIn
+Instagram
+Twitter
+TikTok
+YouTube
+Facebook
+GitHub
+Website 1
+Website 2
+
